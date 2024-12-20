@@ -1,4 +1,13 @@
-Website Laundry 
+Website laundry yang memudahkan pelanggan untuk memesan layanan secara online, dan tracking status laundry.
+
+>	Penentuan fitur-fitur utama
+•  Pendaftaran dan login pengguna. 
+•  Pemesanan layanan laundry.
+•  Pencatatan Transaksi
+•  Pencatatan Pembelian untuk Pengeluaran 
+•  Layanan Yang Tersedia 
+•  Laporan Keuntungan 
+
 Anggota Kelompok :
 1. Chesar Rizqi F (234311035)
 2. Hanan Labib R (234311041)
